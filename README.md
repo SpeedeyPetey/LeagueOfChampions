@@ -2,15 +2,23 @@
 
 **Description:**
 
-A simple digital replica of an iPhone with three functional applications:
-
+A street-fighting style game inspired by the concepts of League of Legends by *Riot Games*, reinforcing fundamental **Object-Oriented Programming (OOP)** concepts.
 
 **Technology Used:**
 
 - **Eclipse** (Code Editor/IDE - Java IDE for Software Development)
 - **Java** (Language - Object-Oriented Programming Language)
   
-Features:
+**Features:**
+1. Choose 1 champion out of 3 available options
+2. Face off against 1 random opponent out of 3 options
+3. Attack opponents using abilities
+4. Block opponent’s attacks
+5. Farm minions to earn gold
+6. Purchase items using gold
+7. Items boost your stats
+8. Inspect the rule book or view champions’ stats (both personal and opponent)
+9. The game ends when either champion dies
 
 **Installation:**
 
@@ -24,7 +32,7 @@ Features:
 
 5. In Eclipse, go to **File → Import**....
 
-6. In the **Import** dialog, select** **General → Existing Projects**** into Workspace and click **Next**.
+6. In the **Import** dialog, select **General → Existing Projects** into Workspace and click **Next**.
 
 7. Click the **Browse** button next to the **Select root directory** field, and navigate to the extracted folder where the text files are located.
 
